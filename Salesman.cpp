@@ -36,6 +36,5 @@ int main()
 
 	}
 	cout << d[(1 << n) - 1][0] << endl;
-	//
 }
 
