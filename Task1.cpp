@@ -16,5 +16,4 @@ int main()
     else
         cout << "Answer is " << (-b + sqrt(D)) / (2 * a) << " and " << (-b - sqrt(D)) / (2 * a);
 
-    return 0;
 }
