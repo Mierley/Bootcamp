@@ -1,4 +1,4 @@
-#include <iostream>
+stepic#include <iostream>
 #include <cmath>
 #include <algorithm>
 #include <vector>
@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	int n, INF = 0;
+	int n, INF = 111;
 	cin >> n;
 	vector < vector<int> > a(n, vector <int>(n, 0));
 
